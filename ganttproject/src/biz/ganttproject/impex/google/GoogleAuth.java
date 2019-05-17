@@ -1,3 +1,6 @@
+->RefactoringNumber->66616<-ExtractSuperClass(biz.ganttproject.impex.google.GoogleAuth;Class_2;[CLIENT_SECRET|DATA_STORE_FACTORY|JSON_FACTORY|SCOPES];[someSampleWork])
+->RefactoringNumber->66618<-MoveMethod(net.sourceforge.ganttproject.gui.projectwizard.WeekendConfigurationPage.CalendarOption.SchedulingEnum.WeekendSchedulingOption;biz.ganttproject.impex.google.GoogleAuth;[];[get])
+<-endRefactoring marker->
 package biz.ganttproject.impex.google;
 
 import com.google.api.client.auth.oauth2.Credential;

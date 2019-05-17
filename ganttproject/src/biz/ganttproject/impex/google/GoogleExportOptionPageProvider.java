@@ -1,3 +1,6 @@
+->RefactoringNumber->66615<-ExtractClass(biz.ganttproject.impex.google.GoogleExportOptionPageProvider;Class_1;[];[buildPageComponent])
+->RefactoringNumber->66617<-PullUpMethod(biz.ganttproject.impex.google.GoogleExportOptionPageProvider;javax.swing.OptionPageProviderBase;[];[actionPerformed])
+<-endRefactoring marker->
 package biz.ganttproject.impex.google;
 
 import biz.ganttproject.core.option.GPOptionGroup;
